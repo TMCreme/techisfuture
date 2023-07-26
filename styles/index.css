@@ -1,6 +1,6 @@
 body {
   background-color: lightyellow;
-  border-color; black;
+  border-color: black;
  font-family: Verdana;
   margin: 4%;
 }
@@ -43,7 +43,7 @@ h1{
   width: 30%;
   
 }
-p.{
+p{
   font-family: fantasy;
   font-size: 30px;
 }
@@ -56,12 +56,10 @@ h1 {
   text-decoration-line: overline;
 }
 
-}
 
 ul{
-	list-style: none
-	
-	position: fixed
+	list-style: none;
+	position: fixed;
   top: 0;
   width: 100%;
 }
@@ -69,8 +67,4 @@ ul{
 li {
   float: left;
   display: block;
-}
-
-a {
-
 }

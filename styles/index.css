@@ -57,14 +57,7 @@ h1 {
 }
 
 
-ul{
-	list-style: none;
-	position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-li {
+.main_nav li {
   float: left;
   display: block;
 }
